@@ -1,0 +1,14 @@
+2018/08/20-09:30:02.597 3728 Recovering log #2128
+2018/08/20-09:30:02.597 3728 Level-0 table #2130: started
+2018/08/20-09:30:03.281 3728 Level-0 table #2130: 364 bytes OK
+2018/08/20-09:30:03.909 3728 Delete type=0 #2128
+2018/08/20-09:30:03.909 3728 Delete type=3 #2126
+2018/08/20-09:30:04.318 5ecc Compacting 4@0 + 1@1 files
+2018/08/20-09:30:04.361 5ecc Generated table #2132@0: 7 keys, 364 bytes
+2018/08/20-09:30:04.361 5ecc Compacted 4@0 + 1@1 files => 364 bytes
+2018/08/20-09:30:04.383 5ecc compacted to: files[ 0 1 0 0 0 0 0 ]
+2018/08/20-09:30:04.383 5ecc Delete type=2 #2119
+2018/08/20-09:30:04.384 5ecc Delete type=2 #2121
+2018/08/20-09:30:04.384 5ecc Delete type=2 #2124
+2018/08/20-09:30:04.384 5ecc Delete type=2 #2127
+2018/08/20-09:30:04.384 5ecc Delete type=2 #2130
